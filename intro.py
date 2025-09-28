@@ -22,7 +22,7 @@ st.markdown("---")
 
 # 3-1. mappinz 프로젝트
 st.subheader("🎵 mappinz")
-st.markdown("세계 지도 위에 원하는 음악을 핀(pin)하여 **사람들과 음악취향을 공유**할 수 있는 사이트.")
+st.markdown("지도 위에 음악을 추가하여 취향을 공유할 수 있는 사이트.")
 # mappinz 링크를 수정했습니다.
 st.markdown("🔗 [**mappinz 사이트 바로가기**](https://mappinz.web.app)")
 
@@ -32,7 +32,7 @@ st.markdown("---") # 프로젝트 간 구분선
 st.subheader("📈 US Stock Manager")
 st.markdown("**미국 주식 분석 사이트**")
 # US Stock Manager 링크를 유지합니다.
-st.markdown("🔗 [**US Stock Manager 바로가기**](https://www.your-usstock-url.com)")
+st.markdown("🔗 [**US Stock Manager 바로가기**](https://mystockmanager.streamlit.app/)")
 
 st.markdown("---")
 
