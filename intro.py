@@ -35,13 +35,10 @@ st.markdown("**미국 주식 분석 사이트**")
 st.markdown("🔗 [**US Stock Manager 바로가기**](https://mystockmanager.streamlit.app/)")
 st.markdown("---") # 프로젝트 간 구분선
 
-# 3-3. blog
-st.subheader("blog")
-st.markdown("아무 의미없음")
-# US Stock Manager 링크를 유지합니다.
-st.markdown("🔗 [**blog 바로가기**](https://blog.naver.com/olrkt)")
+
 
 st.markdown("---")
 
 # --- 4. 마무리 문구 ---
 st.caption("MIT License Copyright (c) 2025 olrkt")
+
