@@ -22,23 +22,20 @@ st.markdown("---")
 
 # 3-1. mappinz 프로젝트
 st.subheader("🎵 mappinz")
-st.markdown("지도 위에 음악을 추가하여 취향을 공유할 수 있는 사이트.")
+st.markdown("music on the map")
 # mappinz 링크를 수정했습니다.
 st.markdown("🔗 [**mappinz 사이트 바로가기**](https://mappinz.web.app)")
 
 st.markdown("---") # 프로젝트 간 구분선
 
 # 3-2. US Stock Manager 프로젝트
-st.subheader("📈 US Stock Manager")
-st.markdown("**미국 주식 분석 사이트**")
+st.subheader("yfinance data downloader")
+st.markdown("**yfinance statistics, annual/quarterly financials항목 추출, 엑셀다운**")
 # US Stock Manager 링크를 유지합니다.
-st.markdown("🔗 [**US Stock Manager 바로가기**](https://mystockmanager.streamlit.app/)")
+st.markdown("🔗 [**web 바로가기**](https://yfinancedatadownloader.streamlit.app/)")
 st.markdown("---") # 프로젝트 간 구분선
 
 
 
-st.markdown("---")
-
 # --- 4. 마무리 문구 ---
 st.caption("MIT License Copyright (c) 2025 olrkt")
-
